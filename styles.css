@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	box-sizing:border-box;
+}
+.right{
+	    width: 200px;
+    /* margin-right: 100px; */
+    margin-left: 25px;
+    text-align: center;
+}
+.right button{
+	color:white;
+	background-color:red;
+}
