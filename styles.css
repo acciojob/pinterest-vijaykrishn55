@@ -3,6 +3,9 @@
 	display:flex;
 	box-sizing:border-box;
 }
+.hero img{
+	object-fit:cover;
+}
 .right{
 	    width: 200px;
     /* margin-right: 100px; */
